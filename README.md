@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Pathan Sajid
-- 👀 I’m interested in Machine Learning Engineering and python
-- 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on Deep Learning Projects
+- Cyber Security Associate | Identity and Access Management | Cybersecurity |
 - 📫 How to reach me Via https://www.linkedin.com/in/pathan-sajid/
 
 <!---
